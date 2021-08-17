@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am nice0e3!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="![XCVBJNSPJEA6F11FI C@QDI](https://user-images.githubusercontent.com/42479546/129772790-8b5bf313-0757-4aa3-9058-4ee062600a0f.png)" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
