@@ -12,6 +12,8 @@ Welcome to my Github page! I am nice0e3!
 
 #### 🌱 Things I am currently working on: 
 - Java
+- C#
+- PHP
 - C++
 - Web
 - Windows
